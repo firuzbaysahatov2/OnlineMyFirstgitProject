@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="869b9c63-d7dc-4571-b5d4-85b7576f12da" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="869b9c63-d7dc-4571-b5d4-85b7576f12da" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,7 +34,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/langauges.txt">
+        <entry file="file://$PROJECT_DIR$/languages.txt">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -72,7 +70,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-507" />
     <option name="y" value="170" />
     <option name="width" value="1616" />
@@ -231,7 +229,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/langauges.txt">
+    <entry file="file://$PROJECT_DIR$/languages.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
